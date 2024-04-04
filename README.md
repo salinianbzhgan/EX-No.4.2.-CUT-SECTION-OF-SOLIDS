@@ -1,4 +1,4 @@
-![image](https://github.com/salinianbzhgan/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/145742862/235aa5b8-9e09-4806-96df-e64ccdccf195)# EX No.4.2. CUT SECTION OF SOLIDS
+# EX No.4.2. CUT SECTION OF SOLIDS
 ## DATE:
 
 ## AIM: 
